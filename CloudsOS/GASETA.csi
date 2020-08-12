@@ -1,0 +1,37 @@
+say Как назавёшь Газету?
+input
+say Первый заголовок(CapsLock)
+input
+say Содержимое
+input
+input
+input
+input
+say Второй заголовок(CapsLock)
+input
+say содержимое
+input
+input
+input
+input
+say -----------------------------------------------------
+say                   ГАЗЕТА
+say inputic_method 0
+say                Н О В О С Т И  
+say                 Г О Р О Д А
+say inputic_method 1
+say inputic_method 2
+say inputic_method 3
+say inputic_method 4
+say inputic_method 5
+say ---------------------
+say inputic_method 6
+say inputic_method 7
+say inputic_method 8
+say inputic_method 9
+say inputic_method 10
+say ------------------------
+say                 ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ      
+say      Учёные сказали что чихать надо не в РУКИ а в ПОТОЛОК      
+say  А ЛЕКАРСТВО будет сделано в ближайшие 20 минут потому что это...
+say                          Это... ШАРЛОТКА! 

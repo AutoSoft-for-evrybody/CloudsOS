@@ -1,0 +1,22 @@
+say Игральный кубик
+input
+random 1 6
+say rand_method 0
+input
+random 1 6
+say rand_method 1
+input
+random 1 6
+say rand_method 2
+input
+random 1 6
+say rand_method 3
+input
+random 1 6
+say rand_method 4
+input
+random 1 6
+say rand_method 5
+input
+random 1 6
+say rand_method 6

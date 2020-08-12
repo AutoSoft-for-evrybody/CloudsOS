@@ -1,0 +1,12 @@
+say Как тебя зовут?
+input
+say В коком городе живёшь?
+input
+say Фамилия лучшего друга:
+input
+say -------------------------
+say inputic_method 0
+say Проживает в городе:
+say inputic_method 1
+say Фамилия лучшего друга:
+say inputic_method 2
